@@ -1,0 +1,1 @@
+CREATE DATABASE nom_de_la_base_de_donnees;
